@@ -5,708 +5,708 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 19 Aug 2026 05:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 00:01:22 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
     <item>
-      <title>Loadout</title>
-      <link>https://loadout.migsilva.dev</link>
-      <guid isPermaLink="false">b123966c62b4c5094cc9627cb0a96ea5603eb37e:Loadout</guid>
-      <pubDate>Wed, 19 Aug 2026 05:26:21 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Loadout
-Description: See and manage what coding assistants load — Claude Code skills, subagents, slash commands, plugins, and MCP servers, with real usage counts.
-Website: https://loadout.migsilva.dev
-Commit: Add Loadout to AI Tools (#2586)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Loadout<br/>Description: See and manage what coding assistants load — Claude Code skills, subagents, slash commands, plugins, and MCP servers, with real usage counts.<br/>Website: https://loadout.migsilva.dev<br/>Commit: Add Loadout to AI Tools (#2586)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b123966c62b4c5094cc9627cb0a96ea5603eb37e]]></content:encoded>
+      <title>Aurora Editor</title>
+      <link>https://auroraeditor.com/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Aurora Editor</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Aurora Editor
+Description: Lightweight Code Editor (IDE) for macOS.
+Website: https://auroraeditor.com/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Aurora Editor<br/>Description: Lightweight Code Editor (IDE) for macOS.<br/>Website: https://auroraeditor.com/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>PasteClip</title>
-      <link>https://github.com/minsang-alt/PasteClip</link>
-      <guid isPermaLink="false">f78801b9f6ec40133d3d63c32d437d2b35c0f8da:PasteClip</guid>
-      <pubDate>Mon, 17 Aug 2026 03:20:52 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: PasteClip
-Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.
-Open Source: https://github.com/minsang-alt/PasteClip
-Commit: Add PasteClip to Clipboard Tools (#2577)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f78801b9f6ec40133d3d63c32d437d2b35c0f8da</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: PasteClip<br/>Description: Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.<br/>Open Source: https://github.com/minsang-alt/PasteClip<br/>Commit: Add PasteClip to Clipboard Tools (#2577)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f78801b9f6ec40133d3d63c32d437d2b35c0f8da]]></content:encoded>
+      <title>Bootstrap Studio</title>
+      <link>https://bootstrapstudio.io/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Bootstrap Studio</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Bootstrap Studio
+Description: A powerful desktop app for creating responsive websites using the Bootstrap framework.
+Website: https://bootstrapstudio.io/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Bootstrap Studio<br/>Description: A powerful desktop app for creating responsive websites using the Bootstrap framework.<br/>Website: https://bootstrapstudio.io/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>OffPDF</title>
-      <link>https://offpdf.com/</link>
-      <guid isPermaLink="false">344353b6f86e5b0f07f1e396dd12a7e5fa446c7a:OffPDF</guid>
-      <pubDate>Sun, 16 Aug 2026 02:55:36 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: OffPDF
-Description: Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally.
-Website: https://offpdf.com/
-Commit: Add OffPDF to Reading and Writing Tools (#2564)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: OffPDF<br/>Description: Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally.<br/>Website: https://offpdf.com/<br/>Commit: Add OffPDF to Reading and Writing Tools (#2564)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/344353b6f86e5b0f07f1e396dd12a7e5fa446c7a]]></content:encoded>
+      <title>Brackets</title>
+      <link>https://brackets.io</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Brackets</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Brackets
+Description: A modern, open source text editor that understands web design.
+Website: https://brackets.io
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Brackets<br/>Description: A modern, open source text editor that understands web design.<br/>Website: https://brackets.io<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>Atomic Agent</title>
-      <link>https://atomicagent.io/</link>
-      <guid isPermaLink="false">0c5357c0ab3af0c289042454e5d65d2b5a640103:Atomic Agent</guid>
-      <pubDate>Fri, 14 Aug 2026 12:08:53 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Atomic Agent
-Description: Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine, with MCP support and 56 built-in tools.
-Website: https://atomicagent.io/
-Commit: Add Atomic Agent to AI Tools (#2555)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Atomic Agent<br/>Description: Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine, with MCP support and 56 built-in tools.<br/>Website: https://atomicagent.io/<br/>Commit: Add Atomic Agent to AI Tools (#2555)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0c5357c0ab3af0c289042454e5d65d2b5a640103]]></content:encoded>
+      <title>CodeEdit</title>
+      <link>https://www.codeedit.app/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:CodeEdit</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: CodeEdit
+Description: A lightweight, natively-built editor. Open source. Free forever.
+Website: https://www.codeedit.app/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: CodeEdit<br/>Description: A lightweight, natively-built editor. Open source. Free forever.<br/>Website: https://www.codeedit.app/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>fob</title>
-      <link>https://getfob.app</link>
-      <guid isPermaLink="false">817a24c13025eec51cdd8c19a1d3e7cf8bbad25a:fob</guid>
-      <pubDate>Fri, 14 Aug 2026 10:13:07 GMT</pubDate>
-      <category>Security Tools</category>
-      <description>Category: Security Tools
-App: fob
-Description: Menu bar SSH agent that keeps keys in the Secure Enclave and gates every use behind Touch ID.
-Website: https://getfob.app
-Commit: Add fob to Security Tools (#2553)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a</description>
-      <content:encoded><![CDATA[Category: Security Tools<br/>App: fob<br/>Description: Menu bar SSH agent that keeps keys in the Secure Enclave and gates every use behind Touch ID.<br/>Website: https://getfob.app<br/>Commit: Add fob to Security Tools (#2553)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/817a24c13025eec51cdd8c19a1d3e7cf8bbad25a]]></content:encoded>
+      <title>CotEditor</title>
+      <link>https://coteditor.com</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:CotEditor</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: CotEditor
+Description: Lightweight plain-text editor for macOS.
+Website: https://coteditor.com
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: CotEditor<br/>Description: Lightweight plain-text editor for macOS.<br/>Website: https://coteditor.com<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>ShengJi</title>
-      <link>https://github.com/maddylaneeee/ShengJi</link>
-      <guid isPermaLink="false">24257e51e280b4143db98cf5cad20d8bd26a50e3:ShengJi</guid>
-      <pubDate>Fri, 14 Aug 2026 09:44:02 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: ShengJi
-Description: Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.
-Open Source: https://github.com/maddylaneeee/ShengJi
-Commit: Add ShengJi to Voice-to-Text (#2412)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: ShengJi<br/>Description: Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.<br/>Open Source: https://github.com/maddylaneeee/ShengJi<br/>Commit: Add ShengJi to Voice-to-Text (#2412)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/24257e51e280b4143db98cf5cad20d8bd26a50e3]]></content:encoded>
+      <title>Cursor</title>
+      <link>https://cursor.com/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Cursor</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Cursor
+Description: AI code editor with autocomplete, chat, and coding agent features.
+Website: https://cursor.com/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Cursor<br/>Description: AI code editor with autocomplete, chat, and coding agent features.<br/>Website: https://cursor.com/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>Leafy</title>
-      <link>https://leafyapp.uk/</link>
-      <guid isPermaLink="false">b5bf7c2ba05123832347fba7c8a50b41ea93d757:Leafy</guid>
-      <pubDate>Mon, 10 Aug 2026 01:39:51 GMT</pubDate>
-      <category>Education</category>
-      <description>Category: Education
-App: Leafy
-Description: Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library.
-Website: https://leafyapp.uk/
-Commit: Add Leafy (vocabulary builder) to Education (#2251)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757</description>
-      <content:encoded><![CDATA[Category: Education<br/>App: Leafy<br/>Description: Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library.<br/>Website: https://leafyapp.uk/<br/>Commit: Add Leafy (vocabulary builder) to Education (#2251)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b5bf7c2ba05123832347fba7c8a50b41ea93d757]]></content:encoded>
+      <title>Emacs</title>
+      <link>https://www.emacswiki.org/emacs/EmacsForMacOS</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Emacs</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Emacs
+Description: Popular Unix-based text editor for programmers and system administrators.
+Website: https://www.emacswiki.org/emacs/EmacsForMacOS
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Emacs<br/>Description: Popular Unix-based text editor for programmers and system administrators.<br/>Website: https://www.emacswiki.org/emacs/EmacsForMacOS<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>Plonk</title>
-      <link>https://github.com/ostapondo/plonk</link>
-      <guid isPermaLink="false">05d0f1f7ae1b151a343ac8960f541101609c657d:Plonk</guid>
-      <pubDate>Sun, 09 Aug 2026 00:46:44 GMT</pubDate>
-      <category>Utilities / Window Management</category>
-      <description>Category: Utilities / Window Management
-App: Plonk
-Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.
-Open Source: https://github.com/ostapondo/plonk
-Commit: Add Plonk to Window Management (#2515)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d</description>
-      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: Plonk<br/>Description: Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.<br/>Open Source: https://github.com/ostapondo/plonk<br/>Commit: Add Plonk to Window Management (#2515)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05d0f1f7ae1b151a343ac8960f541101609c657d]]></content:encoded>
+      <title>Haystack Editor</title>
+      <link>https://github.com/haystackeditor/haystack-editor</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Haystack Editor</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Haystack Editor
+Description: Code editor with a canvas UI for better code understanding.
+Open Source: https://github.com/haystackeditor/haystack-editor
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Haystack Editor<br/>Description: Code editor with a canvas UI for better code understanding.<br/>Open Source: https://github.com/haystackeditor/haystack-editor<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Helix</title>
+      <link>https://helix-editor.com/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Helix</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Helix
+Description: A post-modern modal text editor.
+Website: https://helix-editor.com/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Helix<br/>Description: A post-modern modal text editor.<br/>Website: https://helix-editor.com/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Itsypad</title>
+      <link>https://itsypad.app</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Itsypad</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Itsypad
+Description: A tiny, fast scratchpad and clipboard manager for macOS.
+Website: https://itsypad.app
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Itsypad<br/>Description: A tiny, fast scratchpad and clipboard manager for macOS.<br/>Website: https://itsypad.app<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Lapce</title>
+      <link>https://lapce.dev/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Lapce</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Lapce
+Description: Lightning-fast and powerful code editor.
+Website: https://lapce.dev/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Lapce<br/>Description: Lightning-fast and powerful code editor.<br/>Website: https://lapce.dev/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>LightTable</title>
+      <link>https://lighttable.com/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:LightTable</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: LightTable
+Description: The next generation code editor.
+Website: https://lighttable.com/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: LightTable<br/>Description: The next generation code editor.<br/>Website: https://lighttable.com/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>LiteEdit</title>
+      <link>https://arietan.github.io/lite-edit/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:LiteEdit</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: LiteEdit
+Description: Fast, native macOS code editor under 1 MB — Swift and AppKit, no Electron.
+Website: https://arietan.github.io/lite-edit/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: LiteEdit<br/>Description: Fast, native macOS code editor under 1 MB — Swift and AppKit, no Electron.<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>MacVim</title>
+      <link>https://github.com/macvim-dev/macvim</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:MacVim</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: MacVim
+Description: the text editor Vim - for macOS.
+Open Source: https://github.com/macvim-dev/macvim
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: MacVim<br/>Description: the text editor Vim - for macOS.<br/>Open Source: https://github.com/macvim-dev/macvim<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>micro</title>
+      <link>https://micro-editor.github.io</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:micro</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: micro
+Description: Modern and intuitive terminal-based text editor.
+Website: https://micro-editor.github.io
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: micro<br/>Description: Modern and intuitive terminal-based text editor.<br/>Website: https://micro-editor.github.io<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Neovim</title>
+      <link>https://github.com/neovim/neovim</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Neovim</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Neovim
+Description: Vim-fork focused on extensibility and usability.
+Open Source: https://github.com/neovim/neovim
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Neovim<br/>Description: Vim-fork focused on extensibility and usability.<br/>Open Source: https://github.com/neovim/neovim<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Nova</title>
+      <link>https://nova.app/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Nova</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Nova
+Description: The beautiful, fast, flexible, native Mac code editor from Panic.
+Website: https://nova.app/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Nova<br/>Description: The beautiful, fast, flexible, native Mac code editor from Panic.<br/>Website: https://nova.app/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Plain Text Editor</title>
+      <link>https://sindresorhus.com/plain-text-editor</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Plain Text Editor</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Plain Text Editor
+Description: Simple distraction-free notepad.
+Website: https://sindresorhus.com/plain-text-editor
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Plain Text Editor<br/>Description: Simple distraction-free notepad.<br/>Website: https://sindresorhus.com/plain-text-editor<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Sublime Text</title>
+      <link>https://www.sublimetext.com/3</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Sublime Text</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Sublime Text
+Description: Text editor with a fast interface and plugin ecosystem. For more plugins, check Sublime Text Plugins.
+Website: https://www.sublimetext.com/3
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Sublime Text<br/>Description: Text editor with a fast interface and plugin ecosystem. For more plugins, check Sublime Text Plugins.<br/>Website: https://www.sublimetext.com/3<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>SubEthaEdit</title>
+      <link>https://subethaedit.net/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:SubEthaEdit</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: SubEthaEdit
+Description: Powerful editor for writing, coding, and collaboration anytime, anywhere!
+Website: https://subethaedit.net/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: SubEthaEdit<br/>Description: Powerful editor for writing, coding, and collaboration anytime, anywhere!<br/>Website: https://subethaedit.net/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>TextMate</title>
+      <link>https://macromates.com</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:TextMate</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: TextMate
+Description: Editor that brings Apple&apos;s approach to operating systems into the world of text editors.
+Website: https://macromates.com
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: TextMate<br/>Description: Editor that brings Apple&apos;s approach to operating systems into the world of text editors.<br/>Website: https://macromates.com<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Tot</title>
+      <link>https://tot.rocks/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Tot</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Tot
+Description: Tot is an elegant, simple way to collect &amp; edit text. It’s your tiny text companion!
+Website: https://tot.rocks/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Tot<br/>Description: Tot is an elegant, simple way to collect &amp; edit text. It’s your tiny text companion!<br/>Website: https://tot.rocks/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>https://www.vim.org/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Vim</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Vim
+Description: An old terminal-based editor. For common plugins, check Vim Common Plugins.
+Website: https://www.vim.org/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Vim<br/>Description: An old terminal-based editor. For common plugins, check Vim Common Plugins.<br/>Website: https://www.vim.org/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Vimr</title>
+      <link>https://vimr.org/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Vimr</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Vimr
+Description: Refined Vim Experience for OS X.
+Website: https://vimr.org/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Vimr<br/>Description: Refined Vim Experience for OS X.<br/>Website: https://vimr.org/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Windsurf</title>
+      <link>https://windsurf.com/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Windsurf</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Windsurf
+Description: AI code editor with agentic coding, autocomplete, and MCP support.
+Website: https://windsurf.com/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Windsurf<br/>Description: AI code editor with agentic coding, autocomplete, and MCP support.<br/>Website: https://windsurf.com/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Zed</title>
+      <link>https://zed.dev/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Zed</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Zed
+Description: A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+Website: https://zed.dev/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Zed<br/>Description: A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.<br/>Website: https://zed.dev/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Keynote</title>
+      <link>https://apps.apple.com/app/keynote/id409183694?platform=mac</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Keynote</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Office</category>
+      <description>Category: Reading and Writing Tools / Office
+App: Keynote
+Description: Build stunning presentations.
+App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: Keynote<br/>Description: Build stunning presentations.<br/>App Store: https://apps.apple.com/app/keynote/id409183694?platform=mac<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>LibreOffice</title>
+      <link>https://www.libreoffice.org</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:LibreOffice</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Office</category>
+      <description>Category: Reading and Writing Tools / Office
+App: LibreOffice
+Description: Free, open-source office software used and tested daily by a large community.
+Website: https://www.libreoffice.org
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: LibreOffice<br/>Description: Free, open-source office software used and tested daily by a large community.<br/>Website: https://www.libreoffice.org<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Microsoft Office</title>
+      <link>https://products.office.com/en-us/mac/microsoft-office-for-mac</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Microsoft Office</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Office</category>
+      <description>Category: Reading and Writing Tools / Office
+App: Microsoft Office
+Description: Unmistakably Office, designed for Mac.
+Website: https://products.office.com/en-us/mac/microsoft-office-for-mac
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: Microsoft Office<br/>Description: Unmistakably Office, designed for Mac.<br/>Website: https://products.office.com/en-us/mac/microsoft-office-for-mac<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Numbers</title>
+      <link>https://apps.apple.com/app/numbers/id409203825?platform=mac</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Numbers</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Office</category>
+      <description>Category: Reading and Writing Tools / Office
+App: Numbers
+Description: Create impressive spreadsheets.
+App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: Numbers<br/>Description: Create impressive spreadsheets.<br/>App Store: https://apps.apple.com/app/numbers/id409203825?platform=mac<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>OnlyOffice</title>
+      <link>https://www.onlyoffice.com/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:OnlyOffice</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Office</category>
+      <description>Category: Reading and Writing Tools / Office
+App: OnlyOffice
+Description: Office suite with document, spreadsheet, and presentation editors.
+Website: https://www.onlyoffice.com/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: OnlyOffice<br/>Description: Office suite with document, spreadsheet, and presentation editors.<br/>Website: https://www.onlyoffice.com/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>https://apps.apple.com/app/pages/id409201541?platform=mac</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Pages</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Office</category>
+      <description>Category: Reading and Writing Tools / Office
+App: Pages
+Description: Documents that stand apart.
+App Store: https://apps.apple.com/app/pages/id409201541?platform=mac
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: Pages<br/>Description: Documents that stand apart.<br/>App Store: https://apps.apple.com/app/pages/id409201541?platform=mac<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>SoftMaker Office</title>
+      <link>https://www.softmaker.com/en/softmaker-office</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:SoftMaker Office</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Office</category>
+      <description>Category: Reading and Writing Tools / Office
+App: SoftMaker Office
+Description: A complete office suite that aims for full compatibility with Microsoft Office documents.
+Website: https://www.softmaker.com/en/softmaker-office
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: SoftMaker Office<br/>Description: A complete office suite that aims for full compatibility with Microsoft Office documents.<br/>Website: https://www.softmaker.com/en/softmaker-office<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>WPS</title>
+      <link>https://www.wps.com/mac</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:WPS</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Office</category>
+      <description>Category: Reading and Writing Tools / Office
+App: WPS
+Description: Is a cross-platform office software suite.
+Website: https://www.wps.com/mac
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Office<br/>App: WPS<br/>Description: Is a cross-platform office software suite.<br/>Website: https://www.wps.com/mac<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Archimedes</title>
+      <link>https://furnacecreek.org/archimedes/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Archimedes</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Archimedes
+Description: Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
+Website: https://furnacecreek.org/archimedes/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Archimedes<br/>Description: Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.<br/>Website: https://furnacecreek.org/archimedes/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>Edmund</title>
+      <link>https://github.com/I7T5/Edmund</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Edmund</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Edmund
+Description: Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault.
+Open Source: https://github.com/I7T5/Edmund
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Edmund<br/>Description: Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault.<br/>Open Source: https://github.com/I7T5/Edmund<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>EME</title>
+      <link>https://github.com/egoist/eme</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:EME</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: EME
+Description: Open-source Markdown editor with an interface like Chrome.
+Open Source: https://github.com/egoist/eme
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: EME<br/>Description: Open-source Markdown editor with an interface like Chrome.<br/>Open Source: https://github.com/egoist/eme<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
+    </item>
+    <item>
+      <title>iA Writer</title>
+      <link>https://ia.net/writer/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:iA Writer</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: iA Writer
+Description: Writing app with an emphasis on simplicity and design.
+Website: https://ia.net/writer/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: iA Writer<br/>Description: Writing app with an emphasis on simplicity and design.<br/>Website: https://ia.net/writer/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
       <title>Imark</title>
       <link>https://github.com/migsilva89/imark</link>
-      <guid isPermaLink="false">c3563cea7c7043eb4013be440660bf28042f141c:Imark</guid>
-      <pubDate>Sun, 09 Aug 2026 00:21:28 GMT</pubDate>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Imark</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
       <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
       <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 App: Imark
 Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.
 Open Source: https://github.com/migsilva89/imark
-Commit: Add Imark to Markdown Tools (#2521)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Imark<br/>Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Add Imark to Markdown Tools (#2521)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c3563cea7c7043eb4013be440660bf28042f141c]]></content:encoded>
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Imark<br/>Description: Open-source Markdown reader that stores your comments inside the document itself as HTML comments.<br/>Open Source: https://github.com/migsilva89/imark<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>ItsPaint</title>
-      <link>https://itspaintmac.com/</link>
-      <guid isPermaLink="false">e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d:ItsPaint</guid>
-      <pubDate>Fri, 07 Aug 2026 21:27:53 GMT</pubDate>
-      <category>Design and Product / Design Tools</category>
-      <description>Category: Design and Product / Design Tools
-App: ItsPaint
-Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.
-Website: https://itspaintmac.com/
-Commit: Add ItsPaint to Design and Product (#2457)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d</description>
-      <content:encoded><![CDATA[Category: Design and Product / Design Tools<br/>App: ItsPaint<br/>Description: Native paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. No account or telemetry.<br/>Website: https://itspaintmac.com/<br/>Commit: Add ItsPaint to Design and Product (#2457)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e5ca1a2edb0c41c3c7be932c1f60bd31973d3d9d]]></content:encoded>
+      <title>LightPaper</title>
+      <link>https://getlightpaper.com/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:LightPaper</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: LightPaper
+Description: Simple, beautiful, yet powerful text editor for your Mac.
+Website: https://getlightpaper.com/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: LightPaper<br/>Description: Simple, beautiful, yet powerful text editor for your Mac.<br/>Website: https://getlightpaper.com/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>MacOSCleaner</title>
-      <link>https://github.com/AlexTkDev/MacOSCleaner</link>
-      <guid isPermaLink="false">647a310507047b4068be72c24caa05e10355a143:MacOSCleaner</guid>
-      <pubDate>Thu, 06 Aug 2026 14:20:34 GMT</pubDate>
-      <category>Utilities / Cleanup and Uninstall</category>
-      <description>Category: Utilities / Cleanup and Uninstall
-App: MacOSCleaner
-Description: Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup.
-Open Source: https://github.com/AlexTkDev/MacOSCleaner
-Commit: Add MacOSCleaner (#2501)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143</description>
-      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: MacOSCleaner<br/>Description: Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup.<br/>Open Source: https://github.com/AlexTkDev/MacOSCleaner<br/>Commit: Add MacOSCleaner (#2501)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647a310507047b4068be72c24caa05e10355a143]]></content:encoded>
+      <title>MacDown</title>
+      <link>https://macdown.uranusjr.com/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:MacDown</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MacDown
+Description: Open source Markdown editor for macOS with live preview and HTML/PDF export.
+Website: https://macdown.uranusjr.com/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MacDown<br/>Description: Open source Markdown editor for macOS with live preview and HTML/PDF export.<br/>Website: https://macdown.uranusjr.com/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>BitFun</title>
-      <link>https://openbitfun.com/</link>
-      <guid isPermaLink="false">c62d841a87d9789b243b09417f7350f3031d680e:BitFun</guid>
-      <pubDate>Wed, 05 Aug 2026 14:29:42 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: BitFun
-Description: Desktop AI agent that builds each task its own interface — a chart, a board, a panel — with a chat bound to that interface&apos;s live state.
-Website: https://openbitfun.com/
-Commit: Add BitFun to AI Tools (#2490)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: BitFun<br/>Description: Desktop AI agent that builds each task its own interface — a chart, a board, a panel — with a chat bound to that interface&apos;s live state.<br/>Website: https://openbitfun.com/<br/>Commit: Add BitFun to AI Tools (#2490)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c62d841a87d9789b243b09417f7350f3031d680e]]></content:encoded>
+      <title>Marked 2</title>
+      <link>https://marked2app.com/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Marked 2</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Marked 2
+Description: This is the Markdown preview with an elegant and powerful set of tools for all writers.
+Website: https://marked2app.com/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marked 2<br/>Description: This is the Markdown preview with an elegant and powerful set of tools for all writers.<br/>Website: https://marked2app.com/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>GraphCode</title>
-      <link>https://graphcode.app</link>
-      <guid isPermaLink="false">cb1b2005a62fe41445fdec235d99a4f5bd030b13:GraphCode</guid>
-      <pubDate>Wed, 05 Aug 2026 04:35:25 GMT</pubDate>
-      <category>Developer Tools / Developer Utilities</category>
-      <description>Category: Developer Tools / Developer Utilities
-App: GraphCode
-Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.
-Website: https://graphcode.app
-Commit: Add GraphCode to Developer Utilities (#2489)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: GraphCode<br/>Description: Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.<br/>Website: https://graphcode.app<br/>Commit: Add GraphCode to Developer Utilities (#2489)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cb1b2005a62fe41445fdec235d99a4f5bd030b13]]></content:encoded>
+      <title>MarkText</title>
+      <link>https://github.com/marktext/marktext</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:MarkText</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MarkText
+Description: Next generation markdown editor, running on platforms of MacOS Windows and Linux.
+Open Source: https://github.com/marktext/marktext
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MarkText<br/>Description: Next generation markdown editor, running on platforms of MacOS Windows and Linux.<br/>Open Source: https://github.com/marktext/marktext<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>Capd</title>
-      <link>https://capd.jxd.dev</link>
-      <guid isPermaLink="false">00393707ca7109e2e59b88db0b837fc3fcd0327e:Capd</guid>
-      <pubDate>Tue, 04 Aug 2026 00:25:32 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: Capd
-Description: Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search.
-Website: https://capd.jxd.dev
-Commit: Add Capd (#2484)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: Capd<br/>Description: Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search.<br/>Website: https://capd.jxd.dev<br/>Commit: Add Capd (#2484)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/00393707ca7109e2e59b88db0b837fc3fcd0327e]]></content:encoded>
+      <title>MarkViewer</title>
+      <link>https://markviewer.com</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:MarkViewer</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MarkViewer
+Description: Markdown viewer and editor for macOS with AI-assisted editing.
+Website: https://markviewer.com
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MarkViewer<br/>Description: Markdown viewer and editor for macOS with AI-assisted editing.<br/>Website: https://markviewer.com<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>Adrafinil</title>
-      <link>https://kagerou.glass/adrafinil/</link>
-      <guid isPermaLink="false">e9a19c4035bce9b25634f806cdf30d4df814a51d:Adrafinil</guid>
-      <pubDate>Sun, 02 Aug 2026 01:10:35 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Adrafinil
-Description: Keep your Mac awake only while AI agents are still working, then let it sleep normally.
-Website: https://kagerou.glass/adrafinil/
-Commit: Add Adrafinil to System Related Tools (#2466)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Adrafinil<br/>Description: Keep your Mac awake only while AI agents are still working, then let it sleep normally.<br/>Website: https://kagerou.glass/adrafinil/<br/>Commit: Add Adrafinil to System Related Tools (#2466)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e9a19c4035bce9b25634f806cdf30d4df814a51d]]></content:encoded>
+      <title>Marp</title>
+      <link>https://marp.app</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Marp</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Marp
+Description: Markdown presentation writer with cross-platform support.
+Website: https://marp.app
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marp<br/>Description: Markdown presentation writer with cross-platform support.<br/>Website: https://marp.app<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>Phosphene</title>
-      <link>https://kagerou.glass/phosphene/</link>
-      <guid isPermaLink="false">04aa761af860a6bc789e4d7d51d9b4a74901f71d:Phosphene</guid>
-      <pubDate>Sat, 01 Aug 2026 11:34:27 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: Phosphene
-Description: Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.
-Website: https://kagerou.glass/phosphene/
-Commit: Add Phosphene to General Tools (#2465)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Phosphene<br/>Description: Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.<br/>Website: https://kagerou.glass/phosphene/<br/>Commit: Add Phosphene to General Tools (#2465)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/04aa761af860a6bc789e4d7d51d9b4a74901f71d]]></content:encoded>
+      <title>Marxico</title>
+      <link>https://marxi.co/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Marxico</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Marxico
+Description: Delicate Markdown editor for Evernote. Reliable storage and sync.
+Website: https://marxi.co/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Marxico<br/>Description: Delicate Markdown editor for Evernote. Reliable storage and sync.<br/>Website: https://marxi.co/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>Rilmazafone</title>
-      <link>https://kagerou.glass/rilmazafone/</link>
-      <guid isPermaLink="false">0bd92006bd50556021f201a5377e9a572ba5a82d:Rilmazafone</guid>
-      <pubDate>Sat, 01 Aug 2026 11:32:19 GMT</pubDate>
-      <category>Developer Tools / Frameworks For Hybrid Applications</category>
-      <description>Category: Developer Tools / Frameworks For Hybrid Applications
-App: Rilmazafone
-Description: Design DMG installers on a WYSIWYG canvas and build exactly what you drew, no scripts.
-Website: https://kagerou.glass/rilmazafone/
-Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Frameworks For Hybrid Applications<br/>App: Rilmazafone<br/>Description: Design DMG installers on a WYSIWYG canvas and build exactly what you drew, no scripts.<br/>Website: https://kagerou.glass/rilmazafone/<br/>Commit: Add Rilmazafone to Frameworks For Hybrid Applications (#2468)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0bd92006bd50556021f201a5377e9a572ba5a82d]]></content:encoded>
+      <title>MWeb</title>
+      <link>https://www.mweb.im/</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:MWeb</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: MWeb
+Description: Pro Markdown writing, and static blog generator App.
+Website: https://www.mweb.im/
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: MWeb<br/>Description: Pro Markdown writing, and static blog generator App.<br/>Website: https://www.mweb.im/<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>NoteGen</title>
-      <link>https://notegen.top/</link>
-      <guid isPermaLink="false">afa2b3e270c52f3eb659feedeb9b7a3951dbb45d:NoteGen</guid>
-      <pubDate>Sat, 01 Aug 2026 00:14:34 GMT</pubDate>
-      <category>Reading and Writing Tools / Note-taking</category>
-      <description>Category: Reading and Writing Tools / Note-taking
-App: NoteGen
-Description: Open-source, local-first Markdown note-taking app that turns scattered records into structured notes with AI.
-Website: https://notegen.top/
-Commit: Add NoteGen (#2462)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: NoteGen<br/>Description: Open-source, local-first Markdown note-taking app that turns scattered records into structured notes with AI.<br/>Website: https://notegen.top/<br/>Commit: Add NoteGen (#2462)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/afa2b3e270c52f3eb659feedeb9b7a3951dbb45d]]></content:encoded>
+      <title>Obsidian</title>
+      <link>https://obsidian.md</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Obsidian</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Obsidian
+Description: A second brain, for you, forever.
+Website: https://obsidian.md
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Obsidian<br/>Description: A second brain, for you, forever.<br/>Website: https://obsidian.md<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>Fletch</title>
-      <link>https://fletch.sh/?utm_source=dir-awesome-mac</link>
-      <guid isPermaLink="false">05ec40b941f9f3730123cc23c5dde4bff88da234:Fletch</guid>
-      <pubDate>Wed, 29 Jul 2026 04:24:06 GMT</pubDate>
-      <category>Developer Tools / IDEs</category>
-      <description>Category: Developer Tools / IDEs
-App: Fletch
-Description: Native IDE for AI coding agents, giving each agent a sandboxed clone of your repository plus a shared symbol and call-graph index, with diff review before merge.
-Website: https://fletch.sh/?utm_source=dir-awesome-mac
-Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234</description>
-      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Fletch<br/>Description: Native IDE for AI coding agents, giving each agent a sandboxed clone of your repository plus a shared symbol and call-graph index, with diff review before merge.<br/>Website: https://fletch.sh/?utm_source=dir-awesome-mac<br/>Commit: Add Fletch to Developer Tools &gt; IDEs (#2432)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/05ec40b941f9f3730123cc23c5dde4bff88da234]]></content:encoded>
+      <title>Pixley Reader</title>
+      <link>https://github.com/Applacat/PixleyReader</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Pixley Reader</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Pixley Reader
+Description: Reader for Markdown specs, docs, and changelogs generated by AI tools.
+Open Source: https://github.com/Applacat/PixleyReader
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Pixley Reader<br/>Description: Reader for Markdown specs, docs, and changelogs generated by AI tools.<br/>Open Source: https://github.com/Applacat/PixleyReader<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
     <item>
-      <title>AQBot</title>
-      <link>https://app.aqbot.top/</link>
-      <guid isPermaLink="false">a2d6d5a179d094b4fa25f23801f1ed3818773d66:AQBot</guid>
-      <pubDate>Tue, 28 Jul 2026 07:55:55 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: AQBot
-Description: Open-source desktop AI workspace for multi-provider chat, agent workflows, knowledge bases, MCP tools, and an OpenAI-compatible API gateway.
-Website: https://app.aqbot.top/
-Commit: Add AQBot to AI Tools (#2423)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: AQBot<br/>Description: Open-source desktop AI workspace for multi-provider chat, agent workflows, knowledge bases, MCP tools, and an OpenAI-compatible API gateway.<br/>Website: https://app.aqbot.top/<br/>Commit: Add AQBot to AI Tools (#2423)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2d6d5a179d094b4fa25f23801f1ed3818773d66]]></content:encoded>
-    </item>
-    <item>
-      <title>Crisp</title>
-      <link>https://didriksg.github.io/Crisp/</link>
-      <guid isPermaLink="false">44caf9d5982bf9b0abcf8cdb6ccfdd189070568c:Crisp</guid>
-      <pubDate>Tue, 28 Jul 2026 06:51:17 GMT</pubDate>
-      <category>Utilities / Quality of Life Improvements</category>
-      <description>Category: Utilities / Quality of Life Improvements
-App: Crisp
-Description: Manage external displays from the menu bar: HiDPI scaling, DDC brightness, color, and presets.
-Website: https://didriksg.github.io/Crisp/
-Commit: Add Crisp to Quality of Life Improvements (#2415)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44caf9d5982bf9b0abcf8cdb6ccfdd189070568c</description>
-      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Crisp<br/>Description: Manage external displays from the menu bar: HiDPI scaling, DDC brightness, color, and presets.<br/>Website: https://didriksg.github.io/Crisp/<br/>Commit: Add Crisp to Quality of Life Improvements (#2415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/44caf9d5982bf9b0abcf8cdb6ccfdd189070568c]]></content:encoded>
-    </item>
-    <item>
-      <title>WiFi Lens</title>
-      <link>https://github.com/SHIINASAMA/wifi-lens</link>
-      <guid isPermaLink="false">63fa9c01735a56e14c6d440b7d8a3c51d907efa3:WiFi Lens</guid>
-      <pubDate>Mon, 27 Jul 2026 02:18:33 GMT</pubDate>
-      <category>Developer Tools / Network Analysis</category>
-      <description>Category: Developer Tools / Network Analysis
-App: WiFi Lens
-Description: Native open-source Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning, channel congestion visualization, and BLE device tracking.
-Open Source: https://github.com/SHIINASAMA/wifi-lens
-Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: WiFi Lens<br/>Description: Native open-source Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning, channel congestion visualization, and BLE device tracking.<br/>Open Source: https://github.com/SHIINASAMA/wifi-lens<br/>Commit: Add WiFi Lens to Developer Tools &gt; Network Analysis (#2404)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/63fa9c01735a56e14c6d440b7d8a3c51d907efa3]]></content:encoded>
-    </item>
-    <item>
-      <title>Shuffle</title>
-      <link>https://shuffleapp.co</link>
-      <guid isPermaLink="false">9a6821258a061f6c7ed924d6d77a7d8f798067cb:Shuffle</guid>
-      <pubDate>Sun, 26 Jul 2026 07:10:45 GMT</pubDate>
-      <category>Utilities / File Organization Tools</category>
-      <description>Category: Utilities / File Organization Tools
-App: Shuffle
-Description: Fast, GPU-rendered file manager and Finder alternative built in Rust.
-Website: https://shuffleapp.co
-Commit: Add Shuffle (file manager) (#2395)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb</description>
-      <content:encoded><![CDATA[Category: Utilities / File Organization Tools<br/>App: Shuffle<br/>Description: Fast, GPU-rendered file manager and Finder alternative built in Rust.<br/>Website: https://shuffleapp.co<br/>Commit: Add Shuffle (file manager) (#2395)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9a6821258a061f6c7ed924d6d77a7d8f798067cb]]></content:encoded>
-    </item>
-    <item>
-      <title>Berthly</title>
-      <link>https://berthly.net</link>
-      <guid isPermaLink="false">3ad1324d5a3e545cb049ff725732fdeec9ecf718:Berthly</guid>
-      <pubDate>Fri, 24 Jul 2026 09:01:09 GMT</pubDate>
-      <category>Developer Tools / Virtualization</category>
-      <description>Category: Developer Tools / Virtualization
-App: Berthly
-Description: Native GUI for Apple&apos;s container tool, with menu bar monitoring and drag-and-drop image builds.
-Website: https://berthly.net
-Commit: Add Berthly to Virtualization (#2396)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3ad1324d5a3e545cb049ff725732fdeec9ecf718</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Virtualization<br/>App: Berthly<br/>Description: Native GUI for Apple&apos;s container tool, with menu bar monitoring and drag-and-drop image builds.<br/>Website: https://berthly.net<br/>Commit: Add Berthly to Virtualization (#2396)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3ad1324d5a3e545cb049ff725732fdeec9ecf718]]></content:encoded>
-    </item>
-    <item>
-      <title>Pulse</title>
-      <link>https://www.pulseticker.app/</link>
-      <guid isPermaLink="false">e7164194544a0a69c3bdf342b5be9e295772729a:Pulse</guid>
-      <pubDate>Wed, 22 Jul 2026 05:03:17 GMT</pubDate>
-      <category>Finance</category>
-      <description>Category: Finance
-App: Pulse
-Description: Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&amp;L.
-Website: https://www.pulseticker.app/
-Commit: Add Pulse to Finance (#2376)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a</description>
-      <content:encoded><![CDATA[Category: Finance<br/>App: Pulse<br/>Description: Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&amp;L.<br/>Website: https://www.pulseticker.app/<br/>Commit: Add Pulse to Finance (#2376)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e7164194544a0a69c3bdf342b5be9e295772729a]]></content:encoded>
-    </item>
-    <item>
-      <title>TypeCue</title>
-      <link>https://typecue.app</link>
-      <guid isPermaLink="false">1bba52f8aa1dba5b58372916d00a37709c8d1b76:TypeCue</guid>
-      <pubDate>Mon, 20 Jul 2026 04:36:43 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: TypeCue
-Description: Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace, for demo recordings and live presentations.
-Website: https://typecue.app
-Commit: Add TypeCue to Menu Bar Tools (#2360)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: TypeCue<br/>Description: Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace, for demo recordings and live presentations.<br/>Website: https://typecue.app<br/>Commit: Add TypeCue to Menu Bar Tools (#2360)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1bba52f8aa1dba5b58372916d00a37709c8d1b76]]></content:encoded>
-    </item>
-    <item>
-      <title>LingShu</title>
-      <link>https://royzhao1991.github.io/LingShu/</link>
-      <guid isPermaLink="false">cac4ce1bd06dd55a1504c2bd67548b4f19560284:LingShu</guid>
-      <pubDate>Sun, 19 Jul 2026 02:03:52 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: LingShu
-Description: Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions.
-Website: https://royzhao1991.github.io/LingShu/
-Commit: Add LingShu to AI Tools (#2355)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: LingShu<br/>Description: Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions.<br/>Website: https://royzhao1991.github.io/LingShu/<br/>Commit: Add LingShu to AI Tools (#2355)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/cac4ce1bd06dd55a1504c2bd67548b4f19560284]]></content:encoded>
-    </item>
-    <item>
-      <title>Changes</title>
-      <link>https://github.com/maoyama/Changes</link>
-      <guid isPermaLink="false">1cb8d656a855ddcba6dd6067cb872d1f664c0bed:Changes</guid>
-      <pubDate>Sat, 18 Jul 2026 15:16:48 GMT</pubDate>
-      <category>Developer Tools / Version Control</category>
-      <description>Category: Developer Tools / Version Control
-App: Changes
-Description: GUI Git client. Replace the Git CLI with a clear UI and AI assist.
-Open Source: https://github.com/maoyama/Changes
-Commit: Rename Tempo =&gt; Changes (#2353)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cb8d656a855ddcba6dd6067cb872d1f664c0bed</description>
-      <content:encoded><![CDATA[Category: Developer Tools / Version Control<br/>App: Changes<br/>Description: GUI Git client. Replace the Git CLI with a clear UI and AI assist.<br/>Open Source: https://github.com/maoyama/Changes<br/>Commit: Rename Tempo =&gt; Changes (#2353)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cb8d656a855ddcba6dd6067cb872d1f664c0bed]]></content:encoded>
-    </item>
-    <item>
-      <title>StrokeMouse</title>
-      <link>https://strokemouse.com</link>
-      <guid isPermaLink="false">374d97eadae73a9fb5936f0ef116cfda5cfa051a:StrokeMouse</guid>
-      <pubDate>Fri, 17 Jul 2026 08:48:26 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: StrokeMouse
-Description: Custom mouse gestures that can trigger keyboard shortcuts, open apps, perform window actions, run shell commands, or execute AppleScript after drawing a stroke.
-Website: https://strokemouse.com
-Commit: Add StrokeMouse (#2348)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: StrokeMouse<br/>Description: Custom mouse gestures that can trigger keyboard shortcuts, open apps, perform window actions, run shell commands, or execute AppleScript after drawing a stroke.<br/>Website: https://strokemouse.com<br/>Commit: Add StrokeMouse (#2348)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/374d97eadae73a9fb5936f0ef116cfda5cfa051a]]></content:encoded>
-    </item>
-    <item>
-      <title>LokalBot</title>
-      <link>https://www.lokalbot.com/</link>
-      <guid isPermaLink="false">bbb627863dad9c5e4bd947cea7e7aa7d0ad73077:LokalBot</guid>
-      <pubDate>Fri, 17 Jul 2026 06:18:18 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: LokalBot
-Description: On-device meeting notes, dictation, inline autocomplete, and searchable work memory for macOS.
-Website: https://www.lokalbot.com/
-Commit: Add LokalBot to AI Tools (#2340)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb627863dad9c5e4bd947cea7e7aa7d0ad73077</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: LokalBot<br/>Description: On-device meeting notes, dictation, inline autocomplete, and searchable work memory for macOS.<br/>Website: https://www.lokalbot.com/<br/>Commit: Add LokalBot to AI Tools (#2340)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb627863dad9c5e4bd947cea7e7aa7d0ad73077]]></content:encoded>
-    </item>
-    <item>
-      <title>Tura</title>
-      <link>https://turaai.net/</link>
-      <guid isPermaLink="false">179e5205a44847b71ec551a434481e3bd76eee50:Tura</guid>
-      <pubDate>Fri, 17 Jul 2026 05:50:47 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Tura
-Description: Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
-Website: https://turaai.net/
-Commit: Add Tura to AI tools (#2333)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Tura<br/>Description: Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.<br/>Website: https://turaai.net/<br/>Commit: Add Tura to AI tools (#2333)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/179e5205a44847b71ec551a434481e3bd76eee50]]></content:encoded>
-    </item>
-    <item>
-      <title>TabType</title>
-      <link>https://github.com/nilava/TabType</link>
-      <guid isPermaLink="false">8b5b02e1fc9960348e88e2e327dada942434540e:TabType</guid>
-      <pubDate>Fri, 17 Jul 2026 01:43:27 GMT</pubDate>
-      <category>Reading and Writing Tools / Others</category>
-      <description>Category: Reading and Writing Tools / Others
-App: TabType
-Description: Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac.
-Open Source: https://github.com/nilava/TabType
-Commit: Add TabType to list of Mac applications (#2339)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b5b02e1fc9960348e88e2e327dada942434540e</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Others<br/>App: TabType<br/>Description: Free, open-source AI autocomplete for every Mac app — on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac.<br/>Open Source: https://github.com/nilava/TabType<br/>Commit: Add TabType to list of Mac applications (#2339)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8b5b02e1fc9960348e88e2e327dada942434540e]]></content:encoded>
-    </item>
-    <item>
-      <title>Segue</title>
-      <link>https://segue.npearce.me/</link>
-      <guid isPermaLink="false">fd4414f8a839fa2245bc1a9e18b0667c6ba21358:Segue</guid>
-      <pubDate>Thu, 16 Jul 2026 04:08:32 GMT</pubDate>
-      <category>Audio and Video Tools / Audio Record and Process</category>
-      <description>Category: Audio and Video Tools / Audio Record and Process
-App: Segue
-Description: Broadcast audio playout with crossfade, trim, ramp timers, and pause beds for live radio and podcasts.
-Website: https://segue.npearce.me/
-Commit: Add Segue to Audio Record and Process (#2305)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd4414f8a839fa2245bc1a9e18b0667c6ba21358</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: Segue<br/>Description: Broadcast audio playout with crossfade, trim, ramp timers, and pause beds for live radio and podcasts.<br/>Website: https://segue.npearce.me/<br/>Commit: Add Segue to Audio Record and Process (#2305)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fd4414f8a839fa2245bc1a9e18b0667c6ba21358]]></content:encoded>
-    </item>
-    <item>
-      <title>Nimclip</title>
-      <link>https://hukdoesn.github.io/Nimclip/</link>
-      <guid isPermaLink="false">a9d5cabf74d696936d908f0b638492382621e012:Nimclip</guid>
-      <pubDate>Wed, 15 Jul 2026 13:43:35 GMT</pubDate>
-      <category>Utilities / Clipboard Tools</category>
-      <description>Category: Utilities / Clipboard Tools
-App: Nimclip
-Description: Local-first clipboard history manager with search, tags, and image support.
-Website: https://hukdoesn.github.io/Nimclip/
-Commit: Add Nimclip to Clipboard Tools (#2328)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012</description>
-      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Nimclip<br/>Description: Local-first clipboard history manager with search, tags, and image support.<br/>Website: https://hukdoesn.github.io/Nimclip/<br/>Commit: Add Nimclip to Clipboard Tools (#2328)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a9d5cabf74d696936d908f0b638492382621e012]]></content:encoded>
-    </item>
-    <item>
-      <title>Agent Teams AI</title>
-      <link>https://agentteams.live/</link>
-      <guid isPermaLink="false">46652674d802cb0bd24ab7eb77f4514754286c0c:Agent Teams AI</guid>
-      <pubDate>Wed, 15 Jul 2026 02:28:26 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Agent Teams AI
-Description: Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review.
-Website: https://agentteams.live/
-Commit: Add Agent Teams AI (#2322)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Agent Teams AI<br/>Description: Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review.<br/>Website: https://agentteams.live/<br/>Commit: Add Agent Teams AI (#2322)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46652674d802cb0bd24ab7eb77f4514754286c0c]]></content:encoded>
-    </item>
-    <item>
-      <title>MacTools</title>
-      <link>https://github.com/ggbond268/MacTools</link>
-      <guid isPermaLink="false">6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362:MacTools</guid>
-      <pubDate>Tue, 14 Jul 2026 05:18:42 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: MacTools
-Description: Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities.
-Open Source: https://github.com/ggbond268/MacTools
-Commit: Add MacTools to menu bar tools (#2313)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: MacTools<br/>Description: Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities.<br/>Open Source: https://github.com/ggbond268/MacTools<br/>Commit: Add MacTools to menu bar tools (#2313)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6b86b33a56d2c8d32db6bc12c1478cdf2ed4f362]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenDisplay</title>
-      <link>https://opendisplay.app</link>
-      <guid isPermaLink="false">3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d:OpenDisplay</guid>
-      <pubDate>Tue, 14 Jul 2026 02:25:55 GMT</pubDate>
-      <category>Utilities / General Tools</category>
-      <description>Category: Utilities / General Tools
-App: OpenDisplay
-Description: Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input.
-Website: https://opendisplay.app
-Commit: Add OpenDisplay to General Tools (#2308)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d</description>
-      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: OpenDisplay<br/>Description: Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input.<br/>Website: https://opendisplay.app<br/>Commit: Add OpenDisplay to General Tools (#2308)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3e3e8aa2a7d7c6683d8f16933d3e82165cf8990d]]></content:encoded>
-    </item>
-    <item>
-      <title>Tactile</title>
-      <link>https://github.com/Mason363/Tactile</link>
-      <guid isPermaLink="false">3b5fb45ce127372a39b453916df1e2054dc98267:Tactile</guid>
-      <pubDate>Mon, 13 Jul 2026 04:51:18 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Tactile
-Description: Taps the Force Touch trackpad whenever the cursor is over a clickable element in any app, with optional visual cues as a low-vision aid.
-Open Source: https://github.com/Mason363/Tactile
-Commit: Add Tactile to Menu Bar Tools (#2298)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5fb45ce127372a39b453916df1e2054dc98267</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Tactile<br/>Description: Taps the Force Touch trackpad whenever the cursor is over a clickable element in any app, with optional visual cues as a low-vision aid.<br/>Open Source: https://github.com/Mason363/Tactile<br/>Commit: Add Tactile to Menu Bar Tools (#2298)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3b5fb45ce127372a39b453916df1e2054dc98267]]></content:encoded>
-    </item>
-    <item>
-      <title>Presspeech</title>
-      <link>https://github.com/rcourtman/presspeech</link>
-      <guid isPermaLink="false">1a8e1aa613e808a6ac97d1aa478d57a698af7d2a:Presspeech</guid>
-      <pubDate>Sun, 12 Jul 2026 01:09:08 GMT</pubDate>
-      <category>Voice-to-Text</category>
-      <description>Category: Voice-to-Text
-App: Presspeech
-Description: Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).
-Open Source: https://github.com/rcourtman/presspeech
-Commit: Update Presspeech listing (#2290)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a</description>
-      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: Presspeech<br/>Description: Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).<br/>Open Source: https://github.com/rcourtman/presspeech<br/>Commit: Update Presspeech listing (#2290)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1a8e1aa613e808a6ac97d1aa478d57a698af7d2a]]></content:encoded>
-    </item>
-    <item>
-      <title>Knopo</title>
-      <link>https://github.com/alkalim/Knopo</link>
-      <guid isPermaLink="false">1f253f397c243f38605012529fbc81b837fb1ada:Knopo</guid>
-      <pubDate>Sun, 12 Jul 2026 00:18:16 GMT</pubDate>
-      <category>Reading and Writing Tools / Note-taking</category>
-      <description>Category: Reading and Writing Tools / Note-taking
-App: Knopo
-Description: Native macOS outliner for local-first notes stored as plain Markdown files.
-Open Source: https://github.com/alkalim/Knopo
-Commit: Add Knopo (#2291)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: Knopo<br/>Description: Native macOS outliner for local-first notes stored as plain Markdown files.<br/>Open Source: https://github.com/alkalim/Knopo<br/>Commit: Add Knopo (#2291)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f253f397c243f38605012529fbc81b837fb1ada]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini Collector</title>
-      <link>https://github.com/FirenzeLor/gemini-collector</link>
-      <guid isPermaLink="false">5ac5d87f284028cf73b34cb7b9a722ea5d0629e1:Gemini Collector</guid>
-      <pubDate>Sun, 12 Jul 2026 00:08:52 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Gemini Collector
-Description: Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON.
-Open Source: https://github.com/FirenzeLor/gemini-collector
-Commit: Add Gemini Collector to AI Tools (#2295)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Gemini Collector<br/>Description: Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON.<br/>Open Source: https://github.com/FirenzeLor/gemini-collector<br/>Commit: Add Gemini Collector to AI Tools (#2295)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5ac5d87f284028cf73b34cb7b9a722ea5d0629e1]]></content:encoded>
-    </item>
-    <item>
-      <title>Profisor</title>
-      <link>https://github.com/yefga/Profisor</link>
-      <guid isPermaLink="false">68b54c06902da7c3eef7c2abcf1d28625dcb5de7:Profisor</guid>
-      <pubDate>Sat, 11 Jul 2026 09:03:09 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Profisor
-Description: Switch Xcode provisioning profiles for the current project from the menu bar.
-Open Source: https://github.com/yefga/Profisor
-Commit: Add Profisor (#2289)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Profisor<br/>Description: Switch Xcode provisioning profiles for the current project from the menu bar.<br/>Open Source: https://github.com/yefga/Profisor<br/>Commit: Add Profisor (#2289)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/68b54c06902da7c3eef7c2abcf1d28625dcb5de7]]></content:encoded>
-    </item>
-    <item>
-      <title>Battery Hog</title>
-      <link>https://github.com/luke-fairbanks/BatteryHog</link>
-      <guid isPermaLink="false">e34fa129f9bce64dbc862880429b71ea15c1afa3:Battery Hog</guid>
-      <pubDate>Fri, 10 Jul 2026 07:52:03 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: Battery Hog
-Description: Shows what is draining the battery: live watts, per-app energy, charge history, and drain insights. 100% local.
-Open Source: https://github.com/luke-fairbanks/BatteryHog
-Commit: Add Battery Hog (#2285)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: Battery Hog<br/>Description: Shows what is draining the battery: live watts, per-app energy, charge history, and drain insights. 100% local.<br/>Open Source: https://github.com/luke-fairbanks/BatteryHog<br/>Commit: Add Battery Hog (#2285)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e34fa129f9bce64dbc862880429b71ea15c1afa3]]></content:encoded>
-    </item>
-    <item>
-      <title>OATS</title>
-      <link>https://github.com/ariso-ai/oats</link>
-      <guid isPermaLink="false">9654998824e9692ac4d6953152ff997cd884ac6c:OATS</guid>
-      <pubDate>Thu, 09 Jul 2026 04:48:55 GMT</pubDate>
-      <category>Reading and Writing Tools / Note-taking</category>
-      <description>Category: Reading and Writing Tools / Note-taking
-App: OATS
-Description: Open-source local-first meeting-notes app for macOS with live transcription, speaker labels, AI summaries, and a fully offline on-device mode.
-Open Source: https://github.com/ariso-ai/oats
-Commit: Add Oats to Note-taking (#2268)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c</description>
-      <content:encoded><![CDATA[Category: Reading and Writing Tools / Note-taking<br/>App: OATS<br/>Description: Open-source local-first meeting-notes app for macOS with live transcription, speaker labels, AI summaries, and a fully offline on-device mode.<br/>Open Source: https://github.com/ariso-ai/oats<br/>Commit: Add Oats to Note-taking (#2268)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9654998824e9692ac4d6953152ff997cd884ac6c]]></content:encoded>
-    </item>
-    <item>
-      <title>Prevail</title>
-      <link>https://prevail.sh</link>
-      <guid isPermaLink="false">d3dc33f0560c77b9ab7df83d2bd620121548f8e2:Prevail</guid>
-      <pubDate>Tue, 07 Jul 2026 11:57:34 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Prevail
-Description: Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized.
-Website: https://prevail.sh
-Commit: Add Prevail to AI Tools (#2267)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3dc33f0560c77b9ab7df83d2bd620121548f8e2</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Prevail<br/>Description: Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized.<br/>Website: https://prevail.sh<br/>Commit: Add Prevail to AI Tools (#2267)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3dc33f0560c77b9ab7df83d2bd620121548f8e2]]></content:encoded>
-    </item>
-    <item>
-      <title>tty7</title>
-      <link>https://github.com/l0ng-ai/tty7</link>
-      <guid isPermaLink="false">258daea61a27fda55d57bea4be5d05b10c6c30a6:tty7</guid>
-      <pubDate>Tue, 07 Jul 2026 01:43:44 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
-App: tty7
-Description: A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux.
-Open Source: https://github.com/l0ng-ai/tty7
-Commit: Add tty7 to Terminal Apps (#2263)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: tty7<br/>Description: A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux.<br/>Open Source: https://github.com/l0ng-ai/tty7<br/>Commit: Add tty7 to Terminal Apps (#2263)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/258daea61a27fda55d57bea4be5d05b10c6c30a6]]></content:encoded>
-    </item>
-    <item>
-      <title>TokenTracker</title>
-      <link>https://www.tokentracker.cc</link>
-      <guid isPermaLink="false">baa66734f625ca23b69f94f1b10bc972395eaca2:TokenTracker</guid>
-      <pubDate>Mon, 06 Jul 2026 23:32:36 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: TokenTracker
-Description: Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools.
-Website: https://www.tokentracker.cc
-Commit: Add TokenTracker to AI Tools (#2101)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baa66734f625ca23b69f94f1b10bc972395eaca2</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: TokenTracker<br/>Description: Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools.<br/>Website: https://www.tokentracker.cc<br/>Commit: Add TokenTracker to AI Tools (#2101)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/baa66734f625ca23b69f94f1b10bc972395eaca2]]></content:encoded>
-    </item>
-    <item>
-      <title>Wox</title>
-      <link>https://wox-launcher.github.io/Wox/</link>
-      <guid isPermaLink="false">c4c9f9831cd203db51e91224fc49a4b595fe3b05:Wox</guid>
-      <pubDate>Mon, 06 Jul 2026 10:10:24 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: Wox
-Description: Open-source cross-platform launcher with fast local search and plugin extensibility.
-Website: https://wox-launcher.github.io/Wox/
-Commit: Add Wox #2047
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Wox<br/>Description: Open-source cross-platform launcher with fast local search and plugin extensibility.<br/>Website: https://wox-launcher.github.io/Wox/<br/>Commit: Add Wox #2047<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c4c9f9831cd203db51e91224fc49a4b595fe3b05]]></content:encoded>
-    </item>
-    <item>
-      <title>cctop</title>
-      <link>https://cctop.app</link>
-      <guid isPermaLink="false">bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9:cctop</guid>
-      <pubDate>Mon, 06 Jul 2026 05:33:17 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: cctop
-Description: Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window.
-Website: https://cctop.app
-Commit: Add cctop to Menu Bar Tools (#2257)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: cctop<br/>Description: Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window.<br/>Website: https://cctop.app<br/>Commit: Add cctop to Menu Bar Tools (#2257)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bf1c1ff08d97d092e8fffbf171a1b54db9a3f6f9]]></content:encoded>
-    </item>
-    <item>
-      <title>MenubarCC</title>
-      <link>https://github.com/ksterx/MenubarCC</link>
-      <guid isPermaLink="false">b197ea52da5a96b4566fe2c9f89384a3e5d39dff:MenubarCC</guid>
-      <pubDate>Sun, 05 Jul 2026 13:33:06 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: MenubarCC
-Description: Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you.
-Open Source: https://github.com/ksterx/MenubarCC
-Commit: Add MenubarCC to Menu Bar Tools (#2249)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: MenubarCC<br/>Description: Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you.<br/>Open Source: https://github.com/ksterx/MenubarCC<br/>Commit: Add MenubarCC to Menu Bar Tools (#2249)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b197ea52da5a96b4566fe2c9f89384a3e5d39dff]]></content:encoded>
+      <title>Scratch</title>
+      <link>https://www.ericli.io/scratch</link>
+      <guid isPermaLink="false">720367f7103563572af18af7168ede651ba75b9a:Scratch</guid>
+      <pubDate>Fri, 21 Aug 2026 00:01:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Scratch
+Description: Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support.
+Website: https://www.ericli.io/scratch
+Commit: Actualizar README.md s
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Scratch<br/>Description: Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support.<br/>Website: https://www.ericli.io/scratch<br/>Commit: Actualizar README.md s<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/720367f7103563572af18af7168ede651ba75b9a]]></content:encoded>
     </item>
   </channel>
 </rss>
